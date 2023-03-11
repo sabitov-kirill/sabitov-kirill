@@ -2,7 +2,8 @@
 I'm currently first year bachelor in Applied Maths and Computer Science, actively studing fundamental knowleges.
 
 ### ⚡ Skills
-* C, C++
+* C++
+* C
 * Java
 * JavaScript, TypeScript
 * C#
