@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I'm currently first year bachelor in Applied Maths and Computer Science, actively studing fundamental knowleges.
+I'm currently second year bachelor in Applied Maths and Computer Science, actively studing fundamental knowleges.
 
 ### ⚡ Skills
 * C++
@@ -8,6 +8,8 @@ I'm currently first year bachelor in Applied Maths and Computer Science, activel
 * JavaScript, TypeScript
 * C#
 * Python
+* Clojure
+* Prolog
 * English - B2
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sabitov-kirill&langs_count=5&theme=tokyonight)
